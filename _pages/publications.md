@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+- **Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models (Long Paper)**
+  - Under Review for COLING2024
+  - Second Author
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Evaluating Generative Language Models in Information Extraction as Subjective Question Correction (Short Paper)**
+  - Under Review for COLING2024
+  - **First Author**
