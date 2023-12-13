@@ -10,7 +10,7 @@ redirect_from:
 
 # Overview
 
-I am currently a third-year undergraduate at Beijing University of Posts and Telecommunications. I am a visiting student in C3I lab, supervised by Bowen Zhou. My work focuses on LLM, Explainable AI and Trustful AI.
+I am currently a third-year undergraduate at Beijing University of Posts and Telecommunications. I am a visiting student in C3I lab, supervised by Bowen Zhou. My work focuses on LLM, Explainable AI and Trustworthy AI.
 
 For more information, please refer to my CV.
 
