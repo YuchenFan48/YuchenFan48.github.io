@@ -13,7 +13,7 @@ redirect_from:
 
 ### Beijing University of Posts and Telecommunications
 - **Major**: Telecommunication Engineering and Management
-- **GPA**: 3.87/4.00 (Rank: 1/321)
+- **GPA**: 3.87/4.00 (Rank: **1/321**)
 - **Related Courses**: Programming Basics, Java Language Programming, Database Principles and Applications, Python Data Analysis and Visualization, Computer Network
 - **Minor**: Intelligent Robotics at Ye Peida College of Innovation and Entrepreneurship
 
