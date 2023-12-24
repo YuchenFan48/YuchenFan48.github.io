@@ -53,5 +53,5 @@ For more information, please refer to my CV.
 
 ## Center for Collaborative & Conversational Intelligence, Tsinghua University
  - **Supervisor:** [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm), Tsinghua University
- - **Mentor:** [ChenGao](https://fi.ee.tsinghua.edu.cn/~gaochen/), Assistant Professor at Tsinghua University
+ - **Mentor:** [Chen Gao](https://fi.ee.tsinghua.edu.cn/~gaochen/), Assistant Professor at Tsinghua University
  - **Description:** During my tenure at C3I, I conducted research focusing on Hallucinations and Tool Learning.
