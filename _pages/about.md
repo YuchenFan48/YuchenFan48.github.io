@@ -10,7 +10,7 @@ redirect_from:
 
 # Overview
 
-I am currently a third-year undergraduate at Beijing University of Posts and Telecommunications. I am a visiting student in C3I lab, supervised by Bowen Zhou. My work focuses on LLM, Explainable AI and Trustworthy AI.
+I am currently a third-year undergraduate at Beijing University of Posts and Telecommunications. I am a visiting student in C3I lab, supervised by Bowen Zhou. My work focuses on LLM, Explainable AI, and Trustworthy AI.
 
 For more information, please refer to my CV.
 
@@ -19,7 +19,7 @@ For more information, please refer to my CV.
 - **GPA:** 3.87/4.00 (1/321)
 - **Awards:**
   - National Scholarship
-  - Second Prize in Chinese College Math Comptitions
+  - Second Prize in Chinese College Math Competitions
 
 # Publications
 
@@ -31,6 +31,10 @@ For more information, please refer to my CV.
 - **Accept:** LREC-COLING 2024
 - **Role:** Co-first Author, First Rank
 
+## EVA-Score: Evaluation of Long-form Summarization on Informativeness through Extraction and Validation
+- **Submitted:** EMNLP 2024
+- **Role:** First Author
+
 # Internship
 
 ## Knowledge Engineering Group, Tsinghua University
@@ -39,6 +43,6 @@ For more information, please refer to my CV.
 - **Description:** During my work at KEG, I conducted research focusing on Knowledge Bases and Large Language Models (LLMs).
 
 ## Center for Collaborative & Conversational Intelligence, Tsinghua University
- - **Supervisor:** [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm), Tsinghua University
+ - **Supervisor:** Bowen Zhou, Tsinghua University
  - **Mentor:** [Chen Gao](https://fi.ee.tsinghua.edu.cn/~gaochen/), Research Assistant at Tsinghua University
  - **Description:** During my work at C3I, I conducted research focusing on Hallucinations and Tool Learning.
