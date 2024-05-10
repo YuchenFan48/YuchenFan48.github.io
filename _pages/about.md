@@ -16,21 +16,23 @@ Please feel free to drop me an email if you want to discuss relevant research to
 - *2023.09*: [DSN](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf), the first approach achieved positive BWT, was accepted by NeurIPS 2023!
 
 
-# Publications 
+# Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/DSN.png' alt="DSN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-- [Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf)
-    - Qiang Gao, Xiaojun Shan, **<u>Yuchen Zhang</u>**, Fan Zhou
-    - *Advances in Neural Information Processing Systems (NeurIPS), 2023.*
-
-- [Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011)
-    - **<u>Yuchen Zhang</u>**, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You
-    - *International Conference on Machine Learning (ICML), 2024.*
+[Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf)
+Qiang Gao, Xiaojun Shan, **<u>Yuchen Zhang</u>**, Fan Zhou
+*Advances in Neural Information Processing Systems (NeurIPS), 2023.*
+    
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='../images/GEOM.png' alt="GEOM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011)
+**<u>Yuchen Zhang</u>**, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You
+*International Conference on Machine Learning (ICML), 2024.*
 
 </div>
 </div>
+
 
 # Honors and Awards
 - *2023-10* HuaMeng	scholarship (Top 2% students) | UESTC
