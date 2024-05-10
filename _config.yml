@@ -1,7 +1,12 @@
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "yuchen's homepage"
+description              : "Hey, thanks for stopping by! I am a junior undergraduate student at the University of Electronic Science and Technology of China (UESTC).
+                          I am currently a research assistant at the National University of Singapore supervised by Young Presidential Prof.["Yang You"](https://www.comp.nus.edu.sg/~youy/).
+                          I also work closely with Dr.["Kai Wang"](https://kaiwang960112.github.io/) and Prof.["Wei Jin"](https://www.cs.emory.edu/~wjin30/).
+                          My research primarily focuses on Efficient Learning and Data-centric AI.
+                          Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
+                                  "
+repository               : "https://github.com/Raf-Chen/Raf-Chen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -34,14 +39,14 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : 
+  dblp             : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/yuchenzhan84564"
