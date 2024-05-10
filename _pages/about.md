@@ -48,3 +48,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 # Working Experience
 - *2022.10 - 2023.6*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
 - *2023.6-present*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS
+- 
+# Academic Service
+- Chair of ECCV'24 Workshop: The First Dataset Distillation Challenge
+- Reviewer of WWW'24 Graph Foundation Model Workshop
