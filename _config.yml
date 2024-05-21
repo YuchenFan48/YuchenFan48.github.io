@@ -1,7 +1,7 @@
 # Site Settings
 title                    : "yuchen's homepage"
 description              : "Undergraduate student at UESTC"
-repository               : "https://github.com/Raf-Chen/Raf-Chen.github.io"
+repository               : "Raf-Chen/Raf-Chen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
