@@ -41,10 +41,14 @@ hspace="10" wspace="20" src="../images/DSN.png">
   <dd><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf">
     <strong>Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork
 </strong></a></dd>
-<dd>Qiang Gao, Xiaojun Shan, **<u>Yuchen Zhang</u>**, Fan Zhou</dd>
+<dd>Qiang Gao, Xiaojun Shan, <strong><u>Yuchen Zhang</u><\strong>, Fan Zhou</dd>
     <dd><strong> Advances in Neural Information Processing Systems (NeurIPS), 2023. </strong></dd>
 </dl>
+
 <br />
+
+---
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/GEOM.png">
@@ -52,21 +56,35 @@ hspace="10" wspace="20" src="../images/GEOM.png">
   <dd><a href="https://arxiv.org/abs/2402.05011">
     <strong>Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching
 </strong></a></dd>
-<dd>**<u>Yuchen Zhang</u>**, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You</dd>
+<dd><strong><u>Yuchen Zhang</u><\strong>, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You</dd>
     <dd><strong>International Conference on Machine Learning (ICML), 2024.</strong></dd>
 </dl>
     
 <br />
+<br />
+<br />
+<br />
+<br />
+
 
 # Honors and Awards
-- *2023-10* HuaMeng	scholarship (Top 2% students) | UESTC
-- *2023-10* First-class scholarship (Top 10% students) | UESTC
+
+- *2023-10* HuaMeng	scholarship (Award rate: 0.2%) 
+
+- *2023-10* First-class scholarship
+
 - *2023-7*  National second prize | 16th	China	Collegiate Computing Competition
+
 - *2023-6*  Provincial first prize | 16th China Collegiate Computing Competition
+
 - *2023-6*  Provincial second Prize | 8-th C4-Network Technology Challenge
+
 - *2023-5*  Provincial second Prize | 13th China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge
-- *2022-10* First-class scholarship (Top 10% students) | UESTC
+
+- *2022-10* First-class scholarship 
+
 - *2022-8*  Best Project Award 2022 NLP Summer	Camp (admission rate: 5%) | Nanjing	University
+
 
 # Invited Talks
 - *2024.05 (public soon)*, "Lossless Graph Condensation" on [Techbeat](www.techbeat.net).
