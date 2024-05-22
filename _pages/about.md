@@ -73,7 +73,7 @@ hspace="10" wspace="20" src="../images/GEOM.png">
 
 - *2023-10* First-class scholarship
 
-- *2023-7*  National second prize | 16th	China	Collegiate Computing Competition
+- *2023-7*  National second prize | 16th China	Collegiate Computing Competition
 
 - *2023-6*  Provincial first prize | 16th China Collegiate Computing Competition
 
@@ -83,7 +83,7 @@ hspace="10" wspace="20" src="../images/GEOM.png">
 
 - *2022-10* First-class scholarship 
 
-- *2022-8*  Best Project Award 2022 NLP Summer	Camp (admission rate: 5%) | Nanjing	University
+- *2022-8*  Best Project Award | 2022 NJU NLP SummerCamp
 
 
 # Invited Talks
@@ -95,4 +95,4 @@ hspace="10" wspace="20" src="../images/GEOM.png">
   
 # Academic Service
 - Chair of ECCV'24 Workshop: The First Dataset Distillation Challenge
-- Reviewer of WWW'24 Graph Foundation Model Workshop
+
