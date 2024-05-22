@@ -34,25 +34,29 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 # Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/DSN.png' alt="DSN" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/DSN.png">
+</dt>
+  <dd><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf">
+    <strong>Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork
+</strong></a></dd>
+<dd>Qiang Gao, Xiaojun Shan, **<u>Yuchen Zhang</u>**, Fan Zhou</dd>
+    <dd><strong> Advances in Neural Information Processing Systems (NeurIPS), 2023. </strong></dd>
+</dl>
+<br />
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/GEOM.png">
+</dt>
+  <dd><a href="https://arxiv.org/abs/2402.05011">
+    <strong>Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching
+</strong></a></dd>
+<dd>**<u>Yuchen Zhang</u>**, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You</dd>
+    <dd><strong>International Conference on Machine Learning (ICML), 2024.</strong></dd>
+</dl>
     
-[Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf)
-
-Qiang Gao, Xiaojun Shan, **<u>Yuchen Zhang</u>**, Fan Zhou
-*Advances in Neural Information Processing Systems (NeurIPS), 2023.*
-    
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='../images/GEOM.png' alt="GEOM" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-    
-[Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011)
-
-**<u>Yuchen Zhang</u>**, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You
-*International Conference on Machine Learning (ICML), 2024.*
-
-</div>
-</div>
-
+<br />
 
 # Honors and Awards
 - *2023-10* HuaMeng	scholarship (Top 2% students) | UESTC
