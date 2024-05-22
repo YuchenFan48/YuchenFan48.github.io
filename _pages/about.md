@@ -69,17 +69,17 @@ hspace="10" wspace="20" src="../images/GEOM.png">
 
 - *2023-10* First-class scholarship
 
-- *2023-7*  National second prize | 16th China	Collegiate Computing Competition
+- *2023-7*  National second prize, 16th China	Collegiate Computing Competition
 
-- *2023-6*  Provincial first prize | 16th China Collegiate Computing Competition
+- *2023-6*  Provincial first prize, 16th China Collegiate Computing Competition
 
-- *2023-6*  Provincial second Prize | 8-th C4-Network Technology Challenge
+- *2023-6*  Provincial second Prize, 8-th C4-Network Technology Challenge
 
-- *2023-5*  Provincial second Prize | 13th China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge
+- *2023-5*  Provincial second Prize, 13th China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge
 
 - *2022-10* First-class scholarship 
 
-- *2022-8*  Best Project Award | 2022 NJU NLP SummerCamp
+- *2022-8*  Best Project Award, 2022 NJU NLP SummerCamp
 
 
 # Invited Talks
