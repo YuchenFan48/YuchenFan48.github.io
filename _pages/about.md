@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-Hi there! I am a junior undergraduate student at the University of Electronic Science and Technology of China (UESTC) and currently a research assistant at the National University of Singapore (NUS) supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I worked closely with Dr. [Kai Wang](https://kaiwang960112.github.io/) and Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/).
+Hi there! I am a junior undergraduate student at the University of Electronic Science and Technology of China (UESTC) and currently a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I worked closely with Dr. [Kai Wang](https://kaiwang960112.github.io/) and Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/).
 
 My research primarily focuses on Efficient Learning (Knowledge Distillation & Model Compression) and Data-centric AI (Dataset Distillation & Data Selection). 
 Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
