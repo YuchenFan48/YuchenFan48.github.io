@@ -88,7 +88,7 @@ hspace="10" wspace="20" src="../images/GEOM.png">
 # Invited Talks
 - *2024.05 (public soon)*, "Lossless Graph Condensation" on [Techbeat](https://www.techbeat.net).
 
-# Working Experience
+# Working Experiences
 - *2022.10 - 2023.6*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
 - *2023.6 - present*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
   
