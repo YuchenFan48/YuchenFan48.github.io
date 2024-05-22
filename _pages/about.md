@@ -47,7 +47,7 @@ hspace="10" wspace="20" src="../images/DSN.png">
 
 <br/>
 
-
+---
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/GEOM.png">
@@ -68,21 +68,21 @@ hspace="10" wspace="20" src="../images/GEOM.png">
 
 # Honors and Awards
 
-- *2023-10* HuaMeng	scholarship (Award rate: 0.2%) 
+- *2023-10* HuaMeng	Scholarship (Award rate: 0.2%) 
 
-- *2023-10* First-class scholarship
+- *2023-10* First-class Scholarship
 
-- *2023-07*  National second prize, 16th China	Collegiate Computing Competition
+- *2023-07*  National Second Prize, 16th China	Collegiate Computing Competition
 
-- *2023-06*  Provincial first prize, 16th China Collegiate Computing Competition
+- *2023-06*  Provincial First Prize, 16th China Collegiate Computing Competition
 
-- *2023-06*  Provincial second Prize, 8-th C4-Network Technology Challenge
+- *2023-06*  Provincial Second Prize, 8-th C4-Network Technology Challenge
 
-- *2023-05*  Provincial second Prize, 13th China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge
+- *2023-05*  Provincial Second Prize, 13th China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge
 
-- *2022-10* First-class scholarship 
+- *2022-10* First-class Scholarship 
 
-- *2022-08*  Best Project Award, 2022 NJU NLP SummerCamp
+- *2022-08* Best Project Award, 2022 NJU NLP SummerCamp
 
 
 # Invited Talks
@@ -90,7 +90,7 @@ hspace="10" wspace="20" src="../images/GEOM.png">
 
 # Working Experience
 - *2022.10 - 2023.6*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
-- *2023.6-present*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
+- *2023.6 - present*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
   
 # Academic Service
 - Chair of ECCV'24 Workshop: The First Dataset Distillation Challenge.
