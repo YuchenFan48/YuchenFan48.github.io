@@ -94,4 +94,5 @@ hspace="10" wspace="20" src="../images/GEOM.png">
   
 # Academic Service
 - Chair of ECCV'24 Workshop: The First Dataset Distillation Challenge.
+- Reviewer of WWW, NeurIPS 
 
