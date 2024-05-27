@@ -26,6 +26,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 
 # News
+- *2024.05*: I was invited to serve as a reviewer for ACM MM 2024!
 - *2024.05*: I was invited to serve as a reviewer for NeurIPS 2024!
 - *2024.05*: [GEOM](https://arxiv.org/abs/2402.05011), the first lossless graph condensation approach was accepted by ICML 2024!
 - *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) got accepted at ECCV 2024 as a half-day workshop!
@@ -95,5 +96,5 @@ hspace="10" wspace="20" src="../images/GEOM.png">
   
 # Academic Service
 - Chair of ECCV'24 Workshop: The First Dataset Distillation Challenge.
-- Reviewer of WWW, NeurIPS 
+- Reviewer of WWW, NeurIPS, MM.
 
