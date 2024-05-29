@@ -38,7 +38,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/GEOM.png">
+hspace="20" wspace="20" src="../images/GEOM.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2402.05011">
     <strong>Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching
@@ -47,9 +47,11 @@ hspace="10" wspace="20" src="../images/GEOM.png">
     <dd><strong>International Conference on Machine Learning (ICML), 2024.</strong></dd>
 </dl>
 
+
 <br/>
 
 ---
+
 
 <dl>
   <dt><img align="left" width="400"
