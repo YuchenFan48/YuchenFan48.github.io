@@ -54,7 +54,7 @@ hspace="25" wspace="10" src="../images/GEOM.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="20" wspace="20" src="../images/DSN.png">
+hspace="25" wspace="10" src="../images/DSN.png">
 </dt>
   <dd><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf">
     <strong>Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork
