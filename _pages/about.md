@@ -38,7 +38,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="30" src="../images/GEOM.png">
+hspace="10" wspace="20" src="../images/GEOM.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2402.05011">
     <strong>Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching
@@ -49,13 +49,16 @@ hspace="10" wspace="30" src="../images/GEOM.png">
 
 
 <br/>
+<br/>
+<br/>
+
 
 ---
 
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/DSN.png">
+hspace="20" wspace="10" src="../images/DSN.png">
 </dt>
   <dd><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf">
     <strong>Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork
