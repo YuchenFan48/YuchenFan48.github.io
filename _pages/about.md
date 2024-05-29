@@ -99,6 +99,6 @@ hspace="20" wspace="10" src="../images/DSN.png">
 - *2023.6 - present*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
   
 # Academic Service
-- Chair of ECCV'24 Workshop: The First Dataset Distillation Challenge.
-- Reviewer of WWW, NeurIPS, MM.
+- Chair of ECCV 2024 Workshop: The First Dataset Distillation Challenge.
+- Reviewer of WWW, NeurIPS, ACM MM.
 
