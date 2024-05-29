@@ -19,9 +19,9 @@ redirect_from:
 
 # About me
 
-Hi there! I am a junior undergraduate student at the University of Electronic Science and Technology of China (UESTC) and currently a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also worked closely with Dr. [Kai Wang](https://kaiwang960112.github.io/) and Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/).
+Hi there! I am a junior undergraduate student at the University of Electronic Science and Technology of China (UESTC) and currently a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/) and Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/).
 
-My research primarily focuses on Efficient Learning (Knowledge Distillation & Model Compression) and Data-centric AI (Dataset Distillation & Data Selection). 
+My research primarily focuses on Efficient Learning (Knowledge Distillation and Model Compression) and Data-centric AI (Dataset Distillation and Data Selection). 
 Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
 
 
@@ -38,6 +38,21 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 <dl>
   <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/GEOM.png">
+</dt>
+  <dd><a href="https://arxiv.org/abs/2402.05011">
+    <strong>Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching
+</strong></a></dd>
+<dd><strong><u>Yuchen Zhang</u></strong>, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You</dd>
+    <dd><strong>International Conference on Machine Learning (ICML), 2024.</strong></dd>
+</dl>
+
+<br/>
+
+---
+
+<dl>
+  <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/DSN.png">
 </dt>
   <dd><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf">
@@ -47,19 +62,7 @@ hspace="10" wspace="20" src="../images/DSN.png">
     <dd><strong> Advances in Neural Information Processing Systems (NeurIPS), 2023. </strong></dd>
 </dl>
 
-<br/>
 
----
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/GEOM.png">
-</dt>
-  <dd><a href="https://arxiv.org/abs/2402.05011">
-    <strong>Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching
-</strong></a></dd>
-<dd><strong><u>Yuchen Zhang</u></strong>, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You</dd>
-    <dd><strong>International Conference on Machine Learning (ICML), 2024.</strong></dd>
-</dl>
     
 <br/>
 <br/>
