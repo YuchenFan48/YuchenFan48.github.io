@@ -35,7 +35,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 - *2023.09*: [DSN](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf), the first approach achieved positive BWT, is accepted by NeurIPS 2023!
 
 
-# Selected Publications ([Full List](https://scholar.google.com/citations?user=Y2oqeP0AAAAJ&hl=zh-CN))
+# Publications ([Full List](https://scholar.google.com/citations?user=Y2oqeP0AAAAJ&hl=zh-CN))
 
 <dl>
   <dt><img align="left" width="400"
