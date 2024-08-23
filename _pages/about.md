@@ -26,9 +26,10 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 
 # News
+- *2024.08*: I am invited to serve as a reviewer for ICLR 2025!
 - *2024.07*: I am joining [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern!
-- *2024.05*: I am invited to serve as a reviewer for ACM MM 2024!
 - *2024.05*: I am invited to serve as a reviewer for NeurIPS 2024!
+- *2024.05*: I am invited to serve as a reviewer for ACM MM 2024!
 - *2024.05*: [GEOM](https://arxiv.org/abs/2402.05011), the first lossless graph condensation approach is accepted by ICML 2024!
 - *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) got accepted at ECCV 2024 as a half-day workshop!
 - *2023.10*: I win the HuaMeng Scholarship (10k RMB) and First-class Scholarship (2k RMB) for the second time!
@@ -101,5 +102,5 @@ hspace="20" wspace="10" src="../images/DSN.png">
   
 # Academic Service
 - Chair of ECCV 2024 Workshop: The First Dataset Distillation Challenge.
-- Reviewer of WWW, NeurIPS, ACM MM.
+- Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025.
 
