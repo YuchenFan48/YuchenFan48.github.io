@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-Hi there! I am a junior undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/), Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/) and Prof. [Yuxuan Liang](https://yuxuanliang.com/).
+Hi there! I am a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/), Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/) and Prof. [Yuxuan Liang](https://yuxuanliang.com/).
 
 My research primarily focuses on Efficient Learning (Knowledge Distillation and Model Compression) and Data-centric AI (Dataset Distillation and Data Selection). 
 Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
@@ -76,17 +76,21 @@ hspace="20" wspace="10" src="../images/DSN.png">
 
 # Honors and Awards
 
+- *2024-05* Provincial Second Prize, 9th C4-Network Technology Challenge
+
+- *2024-05* Provincial Second Prize, 17th China	Collegiate Computing Competition
+
 - *2023-10* HuaMeng	Scholarship (Award rate: 0.2%) 
 
 - *2023-10* First-class Scholarship
 
-- *2023-07*  National Second Prize, 16th China	Collegiate Computing Competition
+- *2023-07* National Second Prize, 16th China	Collegiate Computing Competition
 
-- *2023-06*  Provincial First Prize, 16th China Collegiate Computing Competition
+- *2023-06* Provincial First Prize, 16th China Collegiate Computing Competition
 
-- *2023-06*  Provincial Second Prize, 8-th C4-Network Technology Challenge
+- *2023-06* Provincial Second Prize, 8th C4-Network Technology Challenge
 
-- *2023-05*  Provincial Second Prize, 13th China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge
+- *2023-05* Provincial Second Prize, 13th China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge
 
 - *2022-10* First-class Scholarship 
 
@@ -98,7 +102,8 @@ hspace="20" wspace="10" src="../images/DSN.png">
 
 # Working Experiences
 - *2022.10 - 2023.6*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
-- *2023.6 - present*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
+- *2023.6 - 2024.7*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
+- *2024.8 - present*, Shanghai AI Lab.
   
 # Academic Service
 - Chair of ECCV 2024 Workshop: The First Dataset Distillation Challenge.
