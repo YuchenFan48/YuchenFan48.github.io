@@ -19,34 +19,29 @@ redirect_from:
 
 # About me
 
-Hi there! I am a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/), Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/) and Prof. [Yuxuan Liang](https://yuxuanliang.com/).
+Hi there! I am a 4th-year undergraduate student at the Beijing University of Posts and Telecommunications (BUPT). I was previously a research assistant at the KEG at Tsinghua University, supervised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm). I also work closely with Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am going to pursue a Ph.D. in Department Artificial Intelligence at the Shanghai Jiao Tong University (SJTU) and Shanghai AI Lab in 2025.
 
-My research primarily focuses on Efficient Learning (Knowledge Distillation and Model Compression) and Data-centric AI (Dataset Distillation and Data Selection). 
+My research primarily focuses on Evaluation of LLMs, and Reasoning of LLMs.
 Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
 
 
 # News
-- *2024.08*: I am invited to serve as a reviewer for ICLR 2025!
-- *2024.07*: I am joining [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern!
-- *2024.05*: I am invited to serve as a reviewer for NeurIPS 2024!
-- *2024.05*: I am invited to serve as a reviewer for ACM MM 2024!
-- *2024.05*: [GEOM](https://arxiv.org/abs/2402.05011), the first lossless graph condensation approach is accepted by ICML 2024!
-- *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) got accepted at ECCV 2024 as a half-day workshop!
-- *2023.10*: I win the HuaMeng Scholarship (10k RMB) and First-class Scholarship (2k RMB) for the second time!
-- *2023.09*: [DSN](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf), the first approach achieved positive BWT, is accepted by NeurIPS 2023!
+- *2024.07*: I am joining [frontis.ai](https://frontis.ai/) as a research intern!
+- *2024.04*: Our paper [Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models](https://aclanthology.org/2024.lrec-main.1493/) and [Evaluating Generative Language Models in Information Extraction as Subjective Question Correction](https://aclanthology.org/2024.lrec-main.567/) are accepted by LREC-COLING 2024!
+- *2023.09*: I win the National Scholarship (8k RMB) in China!
 
 
-# Publications ([Full List](https://scholar.google.com/citations?user=Y2oqeP0AAAAJ&hl=zh-CN))
+# Publications ([Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&user=u75E9OsAAAAJ))
 
 <dl>
   <dt><img align="left" width="400"
-hspace="20" wspace="10" src="../images/GEOM.png">
+hspace="20" wspace="10" src="../images/EVA.jpg">
 </dt>
-  <dd><a href="https://arxiv.org/abs/2402.05011">
-    <strong>Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching
+  <dd><a href="https://arxiv.org/abs/2407.04969">
+    <strong>EVA-Score: Evaluation of Long-form Summarization on Informativeness through Extraction and Validation
 </strong></a></dd>
-<dd><strong><u>Yuchen Zhang</u></strong>, Tianle Zhang, Kai Wang, Ziyao Guo, Yuxuan Liang, Xavier Bresson, Wei Jin, Yang You</dd>
-    <dd><strong>International Conference on Machine Learning (ICML), 2024.</strong></dd>
+<dd><strong><u>Yuchen Fan</u></strong>, Xin Zhong, Chengsi Wang, Gaochen Wu, Bowen Zhou</dd>
+    <dd><strong>preprint.</strong></dd>
 </dl>
 <br/>
 <br/>
@@ -58,11 +53,11 @@ hspace="20" wspace="10" src="../images/GEOM.png">
   <dt><img align="left" width="400"
 hspace="20" wspace="10" src="../images/DSN.png">
 </dt>
-  <dd><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf">
-    <strong>Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork
+  <dd><a href="https://aclanthology.org/2024.lrec-main.567/">
+    <strong>Evaluating Generative Language Models in Information Extraction as Subjective Question Correction
 </strong></a></dd>
-<dd>Qiang Gao, Xiaojun Shan, <strong><u>Yuchen Zhang</u></strong>, Fan Zhou</dd>
-    <dd><strong> Advances in Neural Information Processing Systems (NeurIPS), 2023. </strong></dd>
+<dd><strong><u>Yuchen Fan</u></strong>, Yantao Liu, Zijun Yao, Jifan Yu, Lei Hou, Juanzi Li</dd>
+    <dd><strong> Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) </strong></dd>
 </dl>
 
 
@@ -76,36 +71,20 @@ hspace="20" wspace="10" src="../images/DSN.png">
 
 # Honors and Awards
 
-- *2024-05* Provincial Second Prize, 9th C4-Network Technology Challenge
+- *2023-10* National Scholarship
 
-- *2024-05* Provincial Second Prize, 17th China	Collegiate Computing Competition
+- *2023-01* Provincial Second Prize, National Mathematical Competition for College Students
 
-- *2023-10* HuaMeng	Scholarship (Award rate: 0.2%) 
-
-- *2023-10* First-class Scholarship
-
-- *2023-07* National Second Prize, 16th China	Collegiate Computing Competition
-
-- *2023-06* Provincial First Prize, 16th China Collegiate Computing Competition
-
-- *2023-06* Provincial Second Prize, 8th C4-Network Technology Challenge
-
-- *2023-05* Provincial Second Prize, 13th China National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge
-
-- *2022-10* First-class Scholarship 
-
-- *2022-08* Best Project Award, 2022 NJU NLP SummerCamp
-
-
-# Invited Talks
-- *2024.05*, "Lossless Graph Condensation" on [Techbeat](https://www.techbeat.net/talk-info?id=873).
+- *2022-09* First-class Scholarship
 
 # Working Experiences
-- *2022.10 - 2023.6*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
-- *2023.6 - 2024.7*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
-- *2024.8 - present*, Shanghai AI Lab.
+
+- *2024.07 - 2024.08*, Frontis.ai, Research Intern.
+
+- *2024.04 - 2024.08*, NLP Group, advised by Prof. [Yue Zhang](https://scholar.google.com/citations?user=6hA7WmUAAAAJ&hl=en), Westlake University.
+
+- *2023.12 - 2024.8*, C3I, advised by Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm), Tsinghua University.
+
+- *2022.10 - 2023.10*, KEG, advised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm), Tsinghua University.
   
-# Academic Service
-- Chair of ECCV 2024 Workshop: The First Dataset Distillation Challenge.
-- Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025.
 
