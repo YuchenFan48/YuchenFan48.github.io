@@ -51,7 +51,7 @@ hspace="20" wspace="10" src="../images/EVA.jpg">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="20" wspace="10" src="../images/SQC.jpg">
+hspace="30" wspace="10" src="../images/SQC.jpg">
 </dt>
   <dd><a href="https://aclanthology.org/2024.lrec-main.567/">
     <strong>Evaluating Generative Language Models in Information Extraction as Subjective Question Correction
