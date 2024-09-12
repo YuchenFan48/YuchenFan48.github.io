@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-Hi there! I am a 4th-year undergraduate student at the Beijing University of Posts and Telecommunications (BUPT). I was previously a research assistant at the KEG at Tsinghua University, supervised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm). I also work closely with Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am going to pursue a Ph.D. in Department Artificial Intelligence at the Shanghai Jiao Tong University (SJTU) and Shanghai AI Lab in 2025.
+Hi there! I am a 4th-year undergraduate student at the Beijing University of Posts and Telecommunications (BUPT). I was previously a research assistant at the KEG at Tsinghua University, supervised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm). I also work closely with Dr. [Ning Ding](https://www.stingning.cn/), and Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am going to pursue a Ph.D. in Department Artificial Intelligence at the Shanghai Jiao Tong University (SJTU) and Shanghai AI Lab in 2025.
 
 My research primarily focuses on Evaluation of LLMs, and Reasoning of LLMs.
 Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
@@ -27,7 +27,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 # News
 - *2024.07*: I am joining [frontis.ai](https://frontis.ai/) as a research intern!
-- *2024.04*: Our paper [Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models](https://aclanthology.org/2024.lrec-main.1493/) and [Evaluating Generative Language Models in Information Extraction as Subjective Question Correction](https://aclanthology.org/2024.lrec-main.567/) are accepted by LREC-COLING 2024!
+- *2024.04*: Our two papers are accepted by LREC-COLING 2024!
 - *2023.09*: I win the National Scholarship (8k RMB) in China!
 
 
