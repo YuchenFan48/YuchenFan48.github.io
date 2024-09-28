@@ -26,7 +26,8 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 
 # News
-- *2024.09*: I am invited to serve as reviewr for ICLR 2025!
+- *2024.10*: I am joining Shanghai AI Lab as a research intern!
+- *2024.09*: I am invited to serve as reviewer for ICLR 2025!
 - *2024.07*: I am joining [frontis.ai](https://frontis.ai/) as a research intern!
 - *2024.04*: Our two papers are accepted by LREC-COLING 2024!
 - *2023.09*: I win the National Scholarship (8k RMB) in China!
