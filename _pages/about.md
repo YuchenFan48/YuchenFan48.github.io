@@ -73,11 +73,11 @@ hspace="20" wspace="30" src="../images/SQC.jpg">
 
 # Honors and Awards
 
-- *2023-10* National Scholarship
+- *2023.10* National Scholarship
 
-- *2023-01* Provincial Second Prize, National Mathematical Competition for College Students
+- *2023.01* Provincial Second Prize, National Mathematical Competition for College Students
 
-- *2022-09* First-class Scholarship
+- *2022.09* First-class Scholarship
 
 # Working Experiences
 
