@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-Hi there! I am a 4th-year undergraduate student at the Beijing University of Posts and Telecommunications (BUPT). I was previously a research assistant at the KEG at Tsinghua University, supervised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm). I also work closely with Dr. [Ning Ding](https://www.stingning.cn/), and Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am going to pursue a Ph.D. in Department Artificial Intelligence at the Shanghai Jiao Tong University (SJTU) and Shanghai AI Lab in 2025.
+Hi there! I am a 4th-year undergraduate student at the Beijing University of Posts and Telecommunications (BUPT). I was previously a research assistant at the KEG at Tsinghua University, supervised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm). I also work closely with Dr. [Ning Ding](https://www.stingning.cn/), and Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am going to pursue a Ph.D. in School of Artificial Intelligence at Shanghai Jiao Tong University (SJTU) and Shanghai AI Lab in 2025.
 
 My research primarily focuses on Evaluation of LLMs, and Reasoning of LLMs.
 Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
