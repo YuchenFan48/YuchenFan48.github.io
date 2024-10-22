@@ -19,15 +19,14 @@ redirect_from:
 
 # About me
 
-Hi there! I am a 4th-year undergraduate student at the Beijing University of Posts and Telecommunications (BUPT). I was previously a research assistant at the KEG at Tsinghua University, supervised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm). I also work closely with Dr. [Ning Ding](https://www.stingning.cn/), and Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am going to pursue a Ph.D. in School of Artificial Intelligence at Shanghai Jiao Tong University (SJTU) and Shanghai AI Lab in 2025.
+Hi there! I am a 4th-year undergraduate student at the Beijing University of Posts and Telecommunications (BUPT). I was previously a research assistant at the KEG at Tsinghua University, supervised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm). I also work closely with Dr. [Ning Ding](https://www.stingning.cn/), and Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I am going to pursue a Ph.D. in School of Artificial Intelligence at Shanghai Jiao Tong University (SJTU) and Shanghai Artificial Intelligence Laboratory in 2025 under the supervision of Prof. [Zhouhan Lin](https://hantek.github.io/) and Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm).
 
-My research primarily focuses on Evaluation of LLMs, and Reasoning of LLMs.
+My research primarily focuses on Evaluation of LLMs, and Alignment of LLMs.
 Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
 
 
 # News
 - *2024.10*: I am joining Shanghai AI Lab as a research intern!
-- *2024.09*: I am invited to serve as reviewer for ICLR 2025!
 - *2024.07*: I am joining [frontis.ai](https://frontis.ai/) as a research intern!
 - *2024.04*: Our two papers are accepted by LREC-COLING 2024!
 - *2023.09*: I win the National Scholarship (8k RMB) in China!
@@ -90,3 +89,6 @@ hspace="20" wspace="30" src="../images/SQC.jpg">
 - *2022.10 - 2023.10*, KEG, advised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm), Tsinghua University.
   
 
+# Academic Services
+
+- Reviewer for ICLR 2025
