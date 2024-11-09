@@ -80,6 +80,7 @@ hspace="20" wspace="30" src="../images/SQC.jpg">
 - *2022.09* First-class Scholarship
 
 # Working Experiences
+- *2024.10 - Present*, Shanghai Artificial Intelligence Laboratory, Research Intern.
 
 - *2024.07 - 2024.08*, Frontis.ai, Research Intern.
 
