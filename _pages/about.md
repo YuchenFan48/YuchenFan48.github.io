@@ -37,7 +37,7 @@ Currently, my interest lies in LLM alignment, and reward model. If you are inter
 
 <dl>
   <dt><img align="left" width="400"
-hspace="30" wspace="30" src="../images/arXiv.svg">
+hspace="30" wspace="30" src="../images/EVA.jpg">
 </dt>
   <dd><a href="https://arxiv.org/abs/2407.04969">
     <strong>EVA-Score: Evaluation of Long-form Summarization on Informativeness through Extraction and Validation
@@ -53,7 +53,7 @@ hspace="30" wspace="30" src="../images/arXiv.svg">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="20" wspace="30" src="../images/COLING.svg">
+hspace="20" wspace="30" src="../images/SQC_jpg">
 </dt>
   <dd><a href="https://aclanthology.org/2024.lrec-main.567/">
     <strong>Evaluating Generative Language Models in Information Extraction as Subjective Question Correction
