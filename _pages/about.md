@@ -43,9 +43,13 @@ Currently, my interest lies in LLM alignment, and reward model. If you are inter
 <dd><strong><u>Yuchen Fan</u></strong>, Xin Zhong, Chengsi Wang, Gaochen Wu, Bowen Zhou</dd>
     <dd><strong>preprint.</strong></dd>
 </dl>
-<br/>
-<br/>
-<br/>
+
+<dl>
+  <dd><a href="https://arxiv.org/abs/2407.04969">
+    <strong>PRIME: Scalable Reinforcement Learning with Implicit Process Rewards
+</strong></a></dd>
+<dd>Ganqu Cui<sup>*</sup>, Lifan Yuan<sup>*</sup>, Zefan Wang<sup>*</sup>, Hanbin Wang<sup>*</sup>, Wendi Li<sup>*</sup>, Bingxiang He<sup>*</sup>, Yuchen Fan<sup>*</sup>, Tianyu Yu<sup>*</sup>, Qixin Xu<sup>*</sup>, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding (<sup>*</sup> core contributors)</dd>
+    <dd><strong>preprint.</strong></dd>
 
 ---
 
@@ -57,12 +61,6 @@ Currently, my interest lies in LLM alignment, and reward model. If you are inter
     <dd><strong> Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) </strong></dd>
 </dl>
 
-
-    
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 
