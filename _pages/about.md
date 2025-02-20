@@ -27,6 +27,7 @@ Currently, my interest lies in LLM alignment, and reward model. If you are inter
 
 
 # News
+- *2025.01*: We releae **PRIME**, a scalable reinforcement learning method with implicit process rewards. 
 - *2024.10*: I am joining Shanghai Artificial Intelligence Laboratory as a research intern!
 - *2024.07*: I am joining [frontis.ai](https://frontis.ai/) as a research intern!
 - *2024.04*: Our two papers are accepted by COLING 2024!
@@ -36,9 +37,6 @@ Currently, my interest lies in LLM alignment, and reward model. If you are inter
 # Publications ([Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&user=u75E9OsAAAAJ))
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="30" wspace="30" src="../images/EVA.jpg">
-</dt>
   <dd><a href="https://arxiv.org/abs/2407.04969">
     <strong>EVA-Score: Evaluation of Long-form Summarization on Informativeness through Extraction and Validation
 </strong></a></dd>
@@ -52,9 +50,6 @@ hspace="30" wspace="30" src="../images/EVA.jpg">
 ---
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="20" wspace="30" src="../images/SQC_jpg">
-</dt>
   <dd><a href="https://aclanthology.org/2024.lrec-main.567/">
     <strong>Evaluating Generative Language Models in Information Extraction as Subjective Question Correction
 </strong></a></dd>
