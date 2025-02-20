@@ -39,7 +39,7 @@ Currently, my interest lies in LLM alignment, and reward model. If you are inter
   <dd><a href="https://arxiv.org/abs/2407.04969">
     <strong>PRIME: Scalable Reinforcement Learning with Implicit Process Rewards
 </strong></a></dd>
-<dd>Ganqu Cui<sup>*</sup>, Lifan Yuan<sup>*</sup>, Zefan Wang<sup>*</sup>, Hanbin Wang<sup>*</sup>, Wendi Li<sup>*</sup>, Bingxiang He<sup>*</sup>, Yuchen Fan<sup>*</sup>, Tianyu Yu<sup>*</sup>, Qixin Xu<sup>*</sup>, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding (<sup>*</sup> core contributors)</dd>
+<dd>Ganqu Cui<sup>*</sup>, Lifan Yuan<sup>*</sup>, Zefan Wang<sup>*</sup>, Hanbin Wang<sup>*</sup>, Wendi Li<sup>*</sup>, Bingxiang He<sup>*</sup>, <strong><u>Yuchen Fan<sup>*</sup></u></strong>, Tianyu Yu<sup>*</sup>, Qixin Xu<sup>*</sup>, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding (<sup>*</sup> core contributors)</dd>
     <dd><strong>preprint.</strong></dd>
 </dl>
 
