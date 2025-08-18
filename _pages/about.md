@@ -27,6 +27,8 @@ Currently, my interest lies in LLM alignment, and reward model. If you are inter
 
 
 # News
+- *2025.08*: We release **SSRL**, the first *full-sim* RL algorithm for Search Agent with ***Sim2Real*** to further boost its performance.
+- *2025.07*: I am joininng Wechat AI as a research intern!
 - *2025.01*: We releae **PRIME**, a scalable reinforcement learning method with implicit process rewards. 
 - *2024.10*: I am joining Shanghai Artificial Intelligence Laboratory as a research intern!
 - *2024.07*: I am joining [frontis.ai](https://frontis.ai/) as a research intern!
@@ -36,7 +38,17 @@ Currently, my interest lies in LLM alignment, and reward model. If you are inter
 
 # Publications ([Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&user=u75E9OsAAAAJ))
 <dl>
-  <dd><a href="https://arxiv.org/abs/2407.04969">
+  <dd><a href="https://arxiv.org/abs/2508.10874">
+    <strong>SSRL: Self-Search Reinforcement Learning
+</strong></a></dd>
+<dd>Yuchen Fan<sup>*</sup>, Kaiyan Zhang<sup>*</sup>, Heng Zhou<sup>*</sup>, Yuxin Zuo, Yanxu chen, Yu Fu, Xinwei Long, Xuekai Zhu, Che Jiang, Yuchen Zhang, Li Kang, Gang Chen, Cheng Huang, Zhizhou He, Bingning Wang, Lei Bai, Ning Ding, Bowen Zhou(<sup>*</sup> core contributors)</dd>
+    <dd><strong>preprint.</strong></dd>
+</dl>
+
+---
+
+<dl>
+  <dd><a href="https://arxiv.org/abs/2502.01456">
     <strong>Process reinforcement through implicit rewards
 </strong></a></dd>
 <dd>Ganqu Cui<sup>*</sup>, Lifan Yuan<sup>*</sup>, Zefan Wang<sup>*</sup>, Hanbin Wang<sup>*</sup>, Wendi Li<sup>*</sup>, Bingxiang He<sup>*</sup>, <strong><u>Yuchen Fan<sup>*</sup></u></strong>, Tianyu Yu<sup>*</sup>, Qixin Xu<sup>*</sup>, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding (<sup>*</sup> core contributors)</dd>
