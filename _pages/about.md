@@ -27,12 +27,12 @@ Currently, my interest lies in **Alignment**, **Reinforcement Learning**, and **
 
 
 # News
+- *2025.06*: Four papers are accepted by **ICLR 2026**! 🎉
+- *2026.01*: One paper is accepted by **ICASSP 2026**!
 - *2025.09*: Starting my Ph.D. journey at SJTU & Shanghai AI Lab! 🎉
 - *2025.08*: We release **SSRL**, the first *full-sim* RL algorithm for Search Agent with ***Sim2Real*** to further boost its performance.
 - *2025.07*: I am joining Tencent WeChat AI as a research intern!
-- *2025.01*: Two papers (**LFQA-E** and **MARTI**) are accepted by **ICLR 2026**! 🎉
 - *2025.01*: We release **PRIME**, a scalable reinforcement learning method with implicit process rewards.
-- *2025.01*: One paper (**EVA-Score**) is accepted by **ICASSP 2026**!
 - *2024.10*: I am joining Shanghai Artificial Intelligence Laboratory as a researcher!
 - *2024.07*: I am joining [frontis.ai](https://frontis.ai/) as a researcher!
 - *2024.04*: Two papers are accepted by **COLING 2024**!
@@ -66,6 +66,22 @@ Currently, my interest lies in **Alignment**, **Reinforcement Learning**, and **
 ---
 
 <dl>
+  <dd><a href="https://aclanthology.org/2024.lrec-main.1408/"><strong>Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in LLMs</strong></a></dd>
+  <dd>Yantao Liu, Zijun Yao, Xin Lv, <strong><u>Yuchen Fan</u></strong>, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li</dd>
+  <dd><strong>COLING 2024</strong></dd>
+</dl>
+
+---
+
+<dl>
+  <dd><a href="https://aclanthology.org/2024.lrec-main.567/"><strong>Evaluating Generative Language Models in Information Extraction as Subjective Question Correction</strong></a></dd>
+  <dd><strong><u>Yuchen Fan</u></strong>, Yantao Liu, Zijun Yao, Jifan Yu, Lei Hou, Juanzi Li</dd>
+  <dd><strong>COLING 2024</strong></dd>
+</dl>
+
+---
+
+<dl>
   <dd><a href="https://arxiv.org/abs/2508.10874"><strong>SSRL: Self-Search Reinforcement Learning</strong></a></dd>
   <dd><strong><u>Yuchen Fan</u></strong>, Kaiyan Zhang, Heng Zhou, Yuxin Zuo, Yanxu Chen, Yu Fu, Xinwei Long, Xuekai Zhu, Che Jiang, Yuchen Zhang, Li Kang, Gang Chen, Cheng Huang, Zhizhou He, Bingning Wang, Lei Bai, Ning Ding, Bowen Zhou</dd>
   <dd><strong>Preprint</strong></dd>
@@ -85,22 +101,6 @@ Currently, my interest lies in **Alignment**, **Reinforcement Learning**, and **
   <dd><strong>A Survey of Reinforcement Learning for Large Reasoning Models</strong></dd>
   <dd>Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, <strong><u>Yuchen Fan</u></strong> (Core Contributor), et al.</dd>
   <dd><strong>Preprint</strong></dd>
-</dl>
-
----
-
-<dl>
-  <dd><a href="https://aclanthology.org/2024.lrec-main.1408/"><strong>Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in LLMs</strong></a></dd>
-  <dd>Yantao Liu, Zijun Yao, Xin Lv, <strong><u>Yuchen Fan</u></strong>, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li</dd>
-  <dd><strong>COLING 2024</strong></dd>
-</dl>
-
----
-
-<dl>
-  <dd><a href="https://aclanthology.org/2024.lrec-main.567/"><strong>Evaluating Generative Language Models in Information Extraction as Subjective Question Correction</strong></a></dd>
-  <dd><strong><u>Yuchen Fan</u></strong>, Yantao Liu, Zijun Yao, Jifan Yu, Lei Hou, Juanzi Li</dd>
-  <dd><strong>COLING 2024</strong></dd>
 </dl>
 
 
