@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "yuchen's homepage"
-description              : "Undergraduate student at BUPT"
+description              : "Ph.D. student at SJTU & Shanghai AI Lab"
 repository               : "YuchenFan48/YuchenFan48.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -17,7 +17,7 @@ author:
   name             : "Yuchen Fan"
   avatar           : "./images/fig.jpg"
   bio              : "yuchenfan48 AT gmail dot com"
-  location         : "Beijing, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=u75E9OsAAAAJ"
