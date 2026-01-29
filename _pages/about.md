@@ -27,7 +27,7 @@ Currently, my interest lies in **Alignment**, **Reinforcement Learning**, and **
 
 
 # News
-- *2025.06*: Four papers are accepted by **ICLR 2026**! 🎉
+- *2026.01*: Four papers are accepted by **ICLR 2026**! 🎉
 - *2026.01*: One paper is accepted by **ICASSP 2026**!
 - *2025.09*: Starting my Ph.D. journey at SJTU & Shanghai AI Lab! 🎉
 - *2025.08*: We release **SSRL**, the first *full-sim* RL algorithm for Search Agent with ***Sim2Real*** to further boost its performance.
