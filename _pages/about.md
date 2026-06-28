@@ -21,12 +21,13 @@ redirect_from:
 
 Hi there! I am a first-year Ph.D. student in Artificial Intelligence at Shanghai Jiao Tong University (SJTU). I received my B.Eng. from Beijing University of Posts and Telecommunications (BUPT) in 2025 with GPA 3.86/4.00 (Rank: 2/329).
 
-I am currently a research intern at ByteDance Seed, working on code agents. Previously, I worked at Tencent WeChat AI, Shanghai Artificial Intelligence Laboratory, C3I at Tsinghua University, WestlakeNLP, Frontis.ai, and the Knowledge Engineering Group at Tsinghua University.
+I am currently a research intern at ByteDance Seed, working on code agents. Previously, I worked at Tencent WeChat AI and Shanghai Artificial Intelligence Laboratory.
 
 Currently, my interest lies in **Code Agents**, **Alignment**, **Reinforcement Learning**, and **Pre-Training**. If you are interested in these topics, feel free to reach out to me!
 
 
 # News
+- *2026.06*: [**Seed 2.1**](https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity) is released, a new generation of agent-capable models built for real-world productivity.
 - *2026.03*: I joined ByteDance Seed as a research intern!
 - *2026.01*: Three papers are accepted by **ICLR 2026**! 🎉
 - *2026.01*: One paper is accepted by **ICASSP 2026**!
@@ -43,7 +44,7 @@ Currently, my interest lies in **Code Agents**, **Alignment**, **Reinforcement L
 # Publications ([Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&user=u75E9OsAAAAJ))
 
 <dl>
-  <dd><strong>LFQA-E: Carefully Benchmarking Long-form QA Evaluation</strong></dd>
+  <dd><a href="https://openreview.net/forum?id=bJYm4v0Spr"><strong>LFQA-E: Carefully Benchmarking Long-form QA Evaluation</strong></a></dd>
   <dd><strong><u>Yuchen Fan</u></strong>, Chen Ling, Xin Zhong, Shuo Zhang, Heng Zhou, Yuchen Zhang, Mingyu Liang, Chengxing Xie, Ermo Hua, Zhizhou He, Cheng Huang, Gang Chen, Ning Ding, Bowen Zhou</dd>
   <dd><strong>ICLR 2026</strong></dd>
 </dl>
@@ -51,7 +52,7 @@ Currently, my interest lies in **Code Agents**, **Alignment**, **Reinforcement L
 ---
 
 <dl>
-  <dd><strong>MARTI: A Framework for Multi-Agent LLM Systems Reinforced Training and Inference</strong></dd>
+  <dd><a href="https://openreview.net/forum?id=E7jZqo0A50"><strong>MARTI: A Framework for Multi-Agent LLM Systems Reinforced Training and Inference</strong></a></dd>
   <dd>Kaiyan Zhang, Kai Tian, Runze Liu, Sihang Zeng, Xuekai Zhu, Guoli Jia, <strong><u>Yuchen Fan</u></strong> (Core Contributor), Xingtai Lv, Yuxin Zuo, Che Jiang, Yuru Wang, Jianyu Wang, Ermo Hua, Xinwei Long, Junqi Gao, Youbang Sun, Zhiyuan Ma, Ganqu Cui, Ning Ding, Biqing Qi, Bowen Zhou</dd>
   <dd><strong>ICLR 2026</strong></dd>
 </dl>
@@ -59,7 +60,7 @@ Currently, my interest lies in **Code Agents**, **Alignment**, **Reinforcement L
 ---
 
 <dl>
-  <dd><strong>How Far Can Unsupervised RLVR Scale LLM Training?</strong></dd>
+  <dd><a href="https://arxiv.org/abs/2603.08660"><strong>How Far Can Unsupervised RLVR Scale LLM Training?</strong></a></dd>
   <dd>Yuxin Zuo, Bingxiang He, Zeyuan Liu, Shangziqi Zhao, Zixuan Fu, Junlin Yang, Kaiyan Zhang, <strong><u>Yuchen Fan</u></strong>, Ganqu Cui, Cheng Qian, Xiusi Chen, Youbang Sun, Xingtai Lv, Xuekai Zhu, Li Sheng, Ran Li, Huan-ang Gao, Yuchen Zhang, Lifan Yuan, Zhiyuan Liu, Bowen Zhou</dd>
   <dd><strong>ICLR 2026</strong></dd>
 </dl>
@@ -107,7 +108,7 @@ Currently, my interest lies in **Code Agents**, **Alignment**, **Reinforcement L
 ---
 
 <dl>
-  <dd><strong>LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge</strong></dd>
+  <dd><a href="https://arxiv.org/abs/2511.01409"><strong>LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge</strong></a></dd>
   <dd>Heng Zhou, Ao Yu, <strong><u>Yuchen Fan</u></strong>, Jianing Shi, Li Kang, Hejia Geng, Yongting Zhang, Yutao Fan, Yuhao Wu, Tiancheng He, Yiran Qin, Lei Bai, Zhenfei Yin</dd>
   <dd><strong>Preprint</strong></dd>
 </dl>
@@ -115,7 +116,7 @@ Currently, my interest lies in **Code Agents**, **Alignment**, **Reinforcement L
 ---
 
 <dl>
-  <dd><strong>A Survey of Reinforcement Learning for Large Reasoning Models</strong></dd>
+  <dd><a href="https://arxiv.org/abs/2509.08827"><strong>A Survey of Reinforcement Learning for Large Reasoning Models</strong></a></dd>
   <dd>Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, <strong><u>Yuchen Fan</u></strong> (Core Contributor), Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, Biqing Qi, Ning Ding, Bowen Zhou</dd>
   <dd><strong>Preprint</strong></dd>
 </dl>
