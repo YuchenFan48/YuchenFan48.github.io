@@ -19,22 +19,23 @@ redirect_from:
 
 # About me
 
-Hi there! I am a first-year Ph.D. student at Shanghai Jiao Tong University (SJTU) and Shanghai Artificial Intelligence Laboratory, supervised by Prof. [Zhouhan Lin](https://hantek.github.io/) and Prof. [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm). I received my B.Eng. from Beijing University of Posts and Telecommunications (BUPT) in 2025 with GPA 3.86/4.00 (Rank: 2/329).
+Hi there! I am a first-year Ph.D. student in Artificial Intelligence at Shanghai Jiao Tong University (SJTU). I received my B.Eng. from Beijing University of Posts and Telecommunications (BUPT) in 2025 with GPA 3.86/4.00 (Rank: 2/329).
 
-I was previously a research assistant at the Knowledge Engineering Group at Tsinghua University, supervised by Prof. [Juanzi Li](https://www.cs.tsinghua.edu.cn/csen/info/1303/4318.htm). I was also a visiting student at Westlake University, supervised by Prof. [Yue Zhang](https://frcchang.github.io/). I work closely with Dr. [Ning Ding](https://www.stingning.cn/), Dr. [Ganqu Cui](https://cgq15.github.io/) and [Bingning Wang](https://scholar.google.com/citations?user=Gw5rMEkAAAAJ).
+I am currently a research intern at ByteDance Seed, working on code agents. Previously, I worked at Tencent WeChat AI, Shanghai Artificial Intelligence Laboratory, C3I at Tsinghua University, WestlakeNLP, Frontis.ai, and the Knowledge Engineering Group at Tsinghua University.
 
-Currently, my interest lies in **Alignment**, **Reinforcement Learning**, and **Pre-Training**. If you are interested in these topics, feel free to reach out to me!
+Currently, my interest lies in **Code Agents**, **Alignment**, **Reinforcement Learning**, and **Pre-Training**. If you are interested in these topics, feel free to reach out to me!
 
 
 # News
-- *2026.01*: Four papers are accepted by **ICLR 2026**! 🎉
+- *2026.03*: I joined ByteDance Seed as a research intern!
+- *2026.01*: Three papers are accepted by **ICLR 2026**! 🎉
 - *2026.01*: One paper is accepted by **ICASSP 2026**!
-- *2025.09*: Starting my Ph.D. journey at SJTU & Shanghai AI Lab! 🎉
+- *2025.09*: Starting my Ph.D. journey at SJTU! 🎉
 - *2025.08*: We release **SSRL**, the first *full-sim* RL algorithm for Search Agent with ***Sim2Real*** to further boost its performance.
-- *2025.07*: I am joining Tencent WeChat AI as a research intern!
+- *2025.07*: I joined Tencent WeChat AI as a research intern!
 - *2025.01*: We release **PRIME**, a scalable reinforcement learning method with implicit process rewards.
-- *2024.10*: I am joining Shanghai Artificial Intelligence Laboratory as a researcher!
-- *2024.07*: I am joining [frontis.ai](https://frontis.ai/) as a researcher!
+- *2024.10*: I joined Shanghai Artificial Intelligence Laboratory as a researcher!
+- *2024.07*: I joined [frontis.ai](https://frontis.ai/) as a researcher!
 - *2024.04*: Two papers are accepted by **COLING 2024**!
 - *2023.09*: I win the **National Scholarship** (Top 1%) in China!
 
@@ -52,6 +53,14 @@ Currently, my interest lies in **Alignment**, **Reinforcement Learning**, and **
 <dl>
   <dd><strong>MARTI: A Framework for Multi-Agent LLM Systems Reinforced Training and Inference</strong></dd>
   <dd>Kaiyan Zhang, Kai Tian, Runze Liu, Sihang Zeng, Xuekai Zhu, Guoli Jia, <strong><u>Yuchen Fan</u></strong> (Core Contributor), Xingtai Lv, Yuxin Zuo, Che Jiang, Yuru Wang, Jianyu Wang, Ermo Hua, Xinwei Long, Junqi Gao, Youbang Sun, Zhiyuan Ma, Ganqu Cui, Ning Ding, Biqing Qi, Bowen Zhou</dd>
+  <dd><strong>ICLR 2026</strong></dd>
+</dl>
+
+---
+
+<dl>
+  <dd><strong>How Far Can Unsupervised RLVR Scale LLM Training?</strong></dd>
+  <dd>Yuxin Zuo, Bingxiang He, Zeyuan Liu, Shangziqi Zhao, Zixuan Fu, Junlin Yang, Kaiyan Zhang, <strong><u>Yuchen Fan</u></strong>, Ganqu Cui, Cheng Qian, Xiusi Chen, Youbang Sun, Xingtai Lv, Xuekai Zhu, Li Sheng, Ran Li, Huan-ang Gao, Yuchen Zhang, Lifan Yuan, Zhiyuan Liu, Bowen Zhou</dd>
   <dd><strong>ICLR 2026</strong></dd>
 </dl>
 
@@ -98,8 +107,16 @@ Currently, my interest lies in **Alignment**, **Reinforcement Learning**, and **
 ---
 
 <dl>
+  <dd><strong>LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge</strong></dd>
+  <dd>Heng Zhou, Ao Yu, <strong><u>Yuchen Fan</u></strong>, Jianing Shi, Li Kang, Hejia Geng, Yongting Zhang, Yutao Fan, Yuhao Wu, Tiancheng He, Yiran Qin, Lei Bai, Zhenfei Yin</dd>
+  <dd><strong>Preprint</strong></dd>
+</dl>
+
+---
+
+<dl>
   <dd><strong>A Survey of Reinforcement Learning for Large Reasoning Models</strong></dd>
-  <dd>Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, <strong><u>Yuchen Fan</u></strong> (Core Contributor), et al.</dd>
+  <dd>Kaiyan Zhang, Yuxin Zuo, Bingxiang He, Youbang Sun, Runze Liu, Che Jiang, <strong><u>Yuchen Fan</u></strong> (Core Contributor), Kai Tian, Guoli Jia, Pengfei Li, Yu Fu, Xingtai Lv, Yuchen Zhang, Sihang Zeng, Shang Qu, Haozhan Li, Shijie Wang, Yuru Wang, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, Biqing Qi, Ning Ding, Bowen Zhou</dd>
   <dd><strong>Preprint</strong></dd>
 </dl>
 
@@ -114,17 +131,19 @@ Currently, my interest lies in **Alignment**, **Reinforcement Learning**, and **
 
 # Working Experiences
 
-- *2025.07 - Present*, **Tencent WeChat AI**, Research Intern. Supervised by Bingning Wang.
+- *2026.03 - Present*, **ByteDance Seed**, Research Intern. Research in code agents.
 
-- *2024.10 - Present*, **Shanghai Artificial Intelligence Laboratory**, Researcher. Supervised by Ganqu Cui and Ning Ding.
+- *2025.07 - 2026.03*, **Tencent WeChat AI**, Research Intern. Research in pre-training and agentic reinforcement learning. Supervised by Bingning Wang.
+
+- *2024.10 - 2026.03*, **Shanghai Artificial Intelligence Laboratory**, Researcher. Research in alignment, reinforcement learning, and pre-training. Supervised by Ganqu Cui and Ning Ding.
 
 - *2024.07 - 2024.08*, **Frontis.ai**, Researcher.
 
-- *2024.03 - 2024.08*, **WestlakeNLP, Westlake University**, Visiting Student. Supervised by Cunxiang Wang and Yue Zhang.
+- *2024.03 - 2024.08*, **WestlakeNLP, Westlake University**, Visiting Student. Research in long-context generation. Supervised by Cunxiang Wang and Yue Zhang.
 
-- *2023.12 - 2024.09*, **C3I, Tsinghua University**, Research Intern. Supervised by Gaochen Wu and Bowen Zhou.
+- *2023.12 - 2024.09*, **C3I, Tsinghua University**, Research Intern. Research on hallucination and tool learning in large language models. Supervised by Gaochen Wu and Bowen Zhou.
 
-- *2022.10 - 2023.10*, **KEG, Tsinghua University**, Research Intern. Supervised by Zijun Yao and Juanzi Li.
+- *2022.10 - 2023.10*, **KEG, Tsinghua University**, Research Intern. Research in natural language processing and knowledge graphs. Supervised by Zijun Yao and Juanzi Li.
 
 # Academic Services
 
